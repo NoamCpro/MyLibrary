@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573763479792",
+    "project_id": "mylibrary-noam",
+    "storage_bucket": "mylibrary-noam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573763479792:android:553c80442961017c7d7a35",
+        "android_client_info": {
+          "package_name": "com.example.mylibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWNkRQik9u1azAKLofEDxtgBRTXv17W1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
